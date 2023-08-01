@@ -1,0 +1,52 @@
+[
+    {
+        "name": "SEE THE UNMATCHED BEAUTY OF THE GREAT.",
+        "description": "Free directories: directories are perfect for customers that are searching for...",
+        "img": "assets/images/005.jpg",
+        "date": "20 Jan 2020",
+        "author": {
+            "author_name": "ALJA BRUN",
+            "author_img": "assets/images/ava1.jpg"
+        }
+    },
+    {
+        "name": "EFFECTIVE ADVERTISING POINTERS.",
+        "description": "Having a home based business is a wonderful asset to your life...",
+        "img": "assets/images/006.jpg",
+        "date": "13 Dec 2019",
+        "author": {
+            "author_name": "DOMINIC FREEMAN",
+            "author_img": "assets/images/ava2.jpg"
+        }
+    },
+    {
+        "name": "HYPNOTIZE YOURSELF INTO THE GHOST.",
+        "description": "There are many things that are important to catalog design...",
+        "img": "assets/images/w1920_007.jpg",
+        "date": "30 Nov 2019",
+        "author": {
+            "author_name": "ALICE WARD",
+            "author_img": "assets/images/ava3.jpg"
+        }
+    },
+    {
+        "name": "EFFECTIVE ADVERTISING POINTERS.",
+        "description": "Having a home based business is a wonderful asset to your life...",
+        "img": "assets/images/w1920_010.jpg",
+        "date": "13 Dec 2019",
+        "author": {
+            "author_name": "DOMINIC FREEMAN",
+            "author_img": "assets/images/ava2.jpg"
+        }
+    },
+    {
+        "name": "HYPNOTIZE YOURSELF INTO THE GHOST.",
+        "description": "There are many things that are important to catalog design...",
+        "img": "assets/images/w1920_008.jpg",
+        "date": "30 Nov 2019",
+        "author": {
+            "author_name": "ALICE WARD",
+            "author_img": "assets/images/ava3.jpg"
+        }
+    }
+]
